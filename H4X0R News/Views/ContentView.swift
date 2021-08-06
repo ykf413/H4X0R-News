@@ -3,7 +3,7 @@
 //  H4X0R News
 //
 //  Created by Alex Yeung on 3/8/2021.
-//  
+//  Modified by Alex Yeung on 06-Aug-2021
 
 import SwiftUI
 
